@@ -1,0 +1,12 @@
+W następnej kolejności przejdź do przeglądarki w Kali Linux i sprawdź czy pod adresem 
+http://<IP_SERWERA>/index.php?id=1, znajduje się strona stworzona w php.
+
+Następnie:
+
+Wprowadź w polu id poniższy ładunek:
+
+1 OR 1=1
+
+URL powinien wyglądać tak:
+
+http://<IP_SERWERA>/index.php?id=1 OR 1=1
